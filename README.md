@@ -1,4 +1,6 @@
 # AWS IoT SDK for JavaScript
+
+[![Join the chat at https://gitter.im/testinc32/aws-iot-device-sdk-js](https://badges.gitter.im/testinc32/aws-iot-device-sdk-js.svg)](https://gitter.im/testinc32/aws-iot-device-sdk-js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The aws-iot-device-sdk.js package allows developers to write JavaScript 
 applications which access the AWS IoT Platform via [MQTT or MQTT over the Secure WebSocket Protocol](http://docs.aws.amazon.com/iot/latest/developerguide/protocols.html).  It can be used in Node.js environments as well as in browser applications.
 
